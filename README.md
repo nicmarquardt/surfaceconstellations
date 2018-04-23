@@ -2,9 +2,13 @@
 ### A Modular Hardware Platform for  Ad-Hoc Reconfigurable Cross-Device Workspaces
 
 __Nicolai Marquardt__ (University College London, n.marquardt@ucl.ac.uk)
+
 __Frederik Brudy__ (University College London, f.brudy@cs.ucl.ac.uk)
+
 __Can Liu__ (ICRI Cities, c.liu@ucl.ac.uk)
+
 __Benedikt Bengler__ (ICRI Cities and IXDS, ben.bengler@ixds.com)
+
 __Christian Holz__ (Microsoft Research, cholz@microsoft.com)
 
 
@@ -13,7 +17,8 @@ SurfaceConstellations is a modular hardware platform for linking multiple mobile
 ![SurfaceConstellations platform](/images/surfaceconstellations.jpg?raw=true "SurfaceConstellations platform")
 
 
-ACM CHI ’18 full paper: 
+### Publication at ACM CHI ’18: 
+
 [Nicolai Marquardt, Frederik Brudy, Can Liu, Benedikt Bengler, and Christian Holz (2018). SurfaceConstellations: A Modular Hardware Platform for Ad-Hoc Reconfigurable Cross-Device Workspaces. In Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems (CHI ‘18), ACM.](https://uclic.ucl.ac.uk/content/4-publications/0-surfaceconstellations-a-modular-1549478-1/surfaceconstellations-acm-chi-2018.pdf)
 
 
